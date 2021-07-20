@@ -1,0 +1,19 @@
+{
+  "name": "vs monitoring hub",
+  "version": "1.0.0",
+  "description": "monitoring",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-packager ."
+  },
+  "author": "vaibhav",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "electron": "^13.1.7",
+    "electron-packager": "^15.3.0",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2",
+    "systeminformation": "^5.7.7"
+  }
+}
